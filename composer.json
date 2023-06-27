@@ -1,0 +1,9 @@
+{
+    "name": "hamza/product_crud",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    }
+}
